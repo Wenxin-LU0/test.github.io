@@ -1,5 +1,5 @@
-# China Business Research Network
-## 中国管理研究网络
+# Gihub Pages Test
+## 个人网站测试
 
 
 CBRN mission statement
