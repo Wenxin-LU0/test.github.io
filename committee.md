@@ -1,7 +1,7 @@
 ---
 layout: default
-title: China Business Research Network
-description: 中国管理研究网络
+title: Gihub Pages Test
+description: 个人网站测试
 ---
 
 ## **<center>Contact us</center>**
