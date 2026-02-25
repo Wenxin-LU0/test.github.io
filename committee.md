@@ -17,13 +17,13 @@ description:
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 0rem;
+  gap: 1rem;
   padding: 0 2rem;
 }
 
 .logo-row img {
-  max-width: 200px;
-  height: auto;
+  height: 100px;
+  width: auto;
 }
 </style>
 
