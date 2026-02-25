@@ -19,12 +19,15 @@ description:
   justify-content: center;
   align-items: center;
   gap: 1rem;
+
+  width: 100vw;              /* 撑满整个屏幕 */
+  margin-left: calc(-50vw + 50%);  /* 关键：突破居中容器 */
   padding: 0 2rem;
 }
 
 .logo-row img {
+  width: 200px;
   max-width: 100%;
-  width: 200px;   /* 控制每个logo基础宽度 */
   height: auto;
 }
 </style>
