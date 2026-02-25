@@ -162,21 +162,21 @@ a {
   color: $header-heading-color;
   text-align: center;
 
-  background-image: url("../images/china_background1.jpg");
+  background-image: url("../images/happy_year.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 
   @include large {
-    padding: 8.5rem 4rem;
+    padding: 15rem 4rem;
   }
 
   @include medium {
-    padding: 4rem 3rem;
+    padding: 3rem 4rem;
   }
 
   @include small {
-    padding: 3rem 1.2rem;
+    padding: 2rem 1rem;
   }
 }
 
@@ -430,11 +430,11 @@ a {
     }
   }
 
-  hr {
-    height: 1px;
+    hr {
+    height: 2px;
     padding: 0;
-    margin: 1.6rem 0;
-    background-color: rgba(0, 0, 0, 0.1);
+    margin: 1rem 0;
+    background-color: $hr-border-color;
     border: 0;
   }
 }
