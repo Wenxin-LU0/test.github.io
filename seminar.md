@@ -4,13 +4,13 @@ title: EGOS SWG Societal Governance
 description: 
 ---
 
-## **<center>Registration</center>**
+## **<center>Seminar Series</center>**
 1
 
-## **<center>Workshop Schedule</center>**
-### **<center>Next workshop</center>**
+## **<center>Registration</center>**
+### **<center>Schedule</center>**
 
 
 
 
-## **<center>Past workshops</center>**
+## **<center>Videos Repository</center>**
