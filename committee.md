@@ -4,16 +4,29 @@ title: EGOS SWG Societal Governance
 description: 
 ---
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <img src="assets/images/liverpool.jpg" alt="liverpool" width="300">
-  <img src="assets/images/USC.jpg" alt="USC" width="300">
-  <img src="assets/images/cityu.jpg" alt="cityu" width="300">
-  <img src="assets/images/EGOS.jpg" alt="EGOS" width="300">
-  <img src="assets/images/NAPA.jpg" alt="NAPA" width="300">
-
+<div class="logo-row">
+  <img src="assets/images/liverpool.jpg" alt="liverpool">
+  <img src="assets/images/USC.jpg" alt="USC">
+  <img src="assets/images/cityu.jpg" alt="cityu">
+  <img src="assets/images/EGOS.jpg" alt="EGOS">
+  <img src="assets/images/NAPA.jpg" alt="NAPA">
 </div>
 
+<style>
+.logo-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  padding: 0 10rem;
+  flex-wrap: nowrap;
+}
+
+.logo-row img {
+  max-width: 180px;
+  height: auto;
+}
+</style>
 
 
 ## **<center>Coordinators</center>**
