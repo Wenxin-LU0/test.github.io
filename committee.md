@@ -15,15 +15,14 @@ description:
 <style>
 .logo-row {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   gap: 2rem;
-  padding: 0 10rem;
-  flex-wrap: nowrap;
+  padding: 0 2rem;
 }
 
 .logo-row img {
-  max-width: 180px;
+  max-width: 200px;
   height: auto;
 }
 </style>
