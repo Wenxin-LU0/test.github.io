@@ -4,13 +4,13 @@ title: EGOS SWG Societal Governance
 description: 
 ---
 
-<div class="logo-row">
+<section class="logo-row">
   <img src="assets/images/liverpool.jpg" alt="liverpool">
   <img src="assets/images/USC.jpg" alt="USC">
   <img src="assets/images/cityu.jpg" alt="cityu">
   <img src="assets/images/EGOS.jpg" alt="EGOS">
   <img src="assets/images/NAPA.jpg" alt="NAPA">
-</div>
+</section>
 
 <style>
 .logo-row {
@@ -27,25 +27,59 @@ description:
 }
 </style>
 
-## **<center>Coordinators</center>**
-*   Zlatko Bodrožić, University of Liverpool, UK (Lead Coordinator)
-Z.Bodrozic@liverpool.ac.uk
+<section>
 
-*   Pilar Acosta, Toulouse Business School, France
-p.acosta@tbs-education.fr
+## Coordinators
 
-*   Paul S. Adler, University of Southern California, USA
-padler@marshall.usc.edu
+<ul class="coordinator-list">
 
-*   Gerald F. Davis, University of Michigan, USA
-gfdavis@umich.edu
+<li>
+<strong>Zlatko Bodrožić</strong><br>
+University of Liverpool, UK (Lead Coordinator)<br>
+<a href="mailto:Z.Bodrozic@liverpool.ac.uk">Z.Bodrozic@liverpool.ac.uk</a>
+</li>
 
-*   Alfred Tat-Kei Ho, City University of Hong Kong, Institute of Global Governance and Innovation for a Shared Future, Hong Kong
-ho.tkalfred@cityu.edu.hk
+<li>
+<strong>Pilar Acosta</strong><br>
+Toulouse Business School, France<br>
+<a href="mailto:p.acosta@tbs-education.fr">p.acosta@tbs-education.fr</a>
+</li>
 
-*   Ning Liu, City University of Hong Kong, Department of Public and International Affairs, Hong Kong
-ning.liu@cityu.edu.hk
+<li>
+<strong>Paul S. Adler</strong><br>
+University of Southern California, USA<br>
+<a href="mailto:padler@marshall.usc.edu">padler@marshall.usc.edu</a>
+</li>
 
-## **<center>Supporting organizations</center>**
+<li>
+<strong>Gerald F. Davis</strong><br>
+University of Michigan, USA<br>
+<a href="mailto:gfdavis@umich.edu">gfdavis@umich.edu</a>
+</li>
 
-## **<center>Contact us</center>**
+<li>
+<strong>Alfred Tat-Kei Ho</strong><br>
+City University of Hong Kong<br>
+<a href="mailto:ho.tkalfred@cityu.edu.hk">ho.tkalfred@cityu.edu.hk</a>
+</li>
+
+<li>
+<strong>Ning Liu</strong><br>
+City University of Hong Kong<br>
+<a href="mailto:ning.liu@cityu.edu.hk">ning.liu@cityu.edu.hk</a>
+</li>
+</ul>
+</section>
+
+<section>
+
+## Supporting Organizations
+(To be updated)
+</section>
+
+
+<section>
+
+## Contact Us
+For general inquiries, please contact the lead coordinator.
+</section>
