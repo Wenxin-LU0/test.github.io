@@ -4,13 +4,13 @@ title: EGOS SWG Societal Governance
 description: 
 ---
 
-## **<center>Mission Statement</center>**
+## Mission Statement
  
 > 1
 
-***
+---
 
-## **<center>Seminar Format</center>**
+## Seminar Format
  
 > 2
 

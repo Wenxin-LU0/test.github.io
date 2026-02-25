@@ -27,7 +27,7 @@ description:
 }
 </style>
 
-## **Coordinators**
+## Coordinators
 
 <div style="margin-left: 2em;">
 <ul class="coordinator-list">
@@ -70,9 +70,12 @@ City University of Hong Kong<br>
 </ul>
 </div>
 
+---
 
-## **Supporting Organizations**
+## Supporting Organizations
 (To be updated)
 
-## **Contact Us**
+---
+
+## Contact Us
 For general inquiries, please contact the lead coordinator.
