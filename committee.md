@@ -22,13 +22,14 @@ description:
 }
 
 .logo-row img {
-  max-width: 400px;
+  max-width: 200px;
   width: auto;
 }
 </style>
 
 ## **Coordinators**
 
+<div style="margin-left: 2em;">
 <ul class="coordinator-list">
 
 <li>
@@ -67,6 +68,7 @@ City University of Hong Kong<br>
 <a href="mailto:ning.liu@cityu.edu.hk">ning.liu@cityu.edu.hk</a>
 </li>
 </ul>
+</div>
 
 
 ## **Supporting Organizations**
