@@ -4,20 +4,20 @@ title: EGOS SWG Societal Governance
 description: 
 ---
 
-<section class="logo-row">
+<div class="logo-row">
   <img src="assets/images/liverpool.jpg" alt="liverpool">
   <img src="assets/images/USC.jpg" alt="USC">
   <img src="assets/images/cityu.jpg" alt="cityu">
   <img src="assets/images/EGOS.jpg" alt="EGOS">
   <img src="assets/images/NAPA.jpg" alt="NAPA">
-</section>
+</div>
 
 <style>
 .logo-row {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 2rem;
+  gap: 0rem;
   padding: 0 2rem;
 }
 
@@ -27,9 +27,7 @@ description:
 }
 </style>
 
-<section>
-
-## Coordinators
+## **Coordinators**
 
 <ul class="coordinator-list">
 
@@ -69,17 +67,10 @@ City University of Hong Kong<br>
 <a href="mailto:ning.liu@cityu.edu.hk">ning.liu@cityu.edu.hk</a>
 </li>
 </ul>
-</section>
 
-<section>
 
-## Supporting Organizations
+## **Supporting Organizations**
 (To be updated)
-</section>
 
-
-<section>
-
-## Contact Us
+## **Contact Us**
 For general inquiries, please contact the lead coordinator.
-</section>
