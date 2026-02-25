@@ -22,7 +22,7 @@ description:
 }
 
 .logo-row img {
-  max-width: 200px;
+  max-width: 250px;
   width: auto;
 }
 </style>
