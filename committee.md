@@ -26,7 +26,7 @@ description:
 }
 
 .logo-row img {
-  width: 200px;
+  width: 250px;
   max-width: 100%;
   height: auto;
 }
