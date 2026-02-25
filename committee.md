@@ -1,47 +1,25 @@
 ---
 layout: default
-title: Gihub Pages Test
-description: 个人网站测试
+title: EGOS SWG Societal Governance
+description: 
 ---
 
-## **<center>Contact us</center>**
-Please feel free to contact us via email: cbrn@cuhk.edu.cn.
 
 
-## **<center>CBRN Committee</center>**
-### **<center>Advising Committee</center>**
- 
-*   [Nan Jia (USC)](https://www.marshall.usc.edu/personnel/nan-jia)
 
-*   [Bin Ke (NUS)](https://bizfaculty.nus.edu.sg/faculty-details/?profId=451)
+## **<center>Coordinators:</center>**
+*   Zlatko Bodrožić, University of Liverpool, UK (Lead Coordinator)
+Z.Bodrozic@liverpool.ac.uk
+*   Pilar Acosta, Toulouse Business School, France
+p.acosta@tbs-education.fr
+*   Paul S. Adler, University of Southern California, USA
+padler@marshall.usc.edu
+*   Gerald F. Davis, University of Michigan, USA
+gfdavis@umich.edu
+*   Alfred Tat-Kei Ho, City University of Hong Kong, Institute of Global Governance and Innovation for a Shared Future, Hong Kong
+ho.tkalfred@cityu.edu.hk
+*   Ning Liu, City University of Hong Kong, Department of Public and International Affairs, Hong Kong
+ning.liu@cityu.edu.hk
 
-*   [Hai Lu (University of Toronto & Peking U)](https://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Lu.aspx)
-
-*   [T.J. Wong (USC)](https://www.marshall.usc.edu/personnel/tj-wong)
-
-*   [Tianyu Zhang (CUHK Shenzhen)](https://sfi.cuhk.edu.cn/en/show-28-25.html)
- 
-### **<center>Organizing Committee</center>**
- 
-*   Zhaowei (Jimmy) Chen (NUS)
-
-*   AJ Yuan Chen (University of British Columbia)
-
-*   Jingli Feng (NUS)
-
-*   Lu Liu (Central University of Finance and Economics)
-
-*   Luna Luyue Zhang (Peking U)
-
-*   Yue Zhang (Peking U)
-
-### **<center>Past Organizing Committee Member</center>**
-*   Changyi Chen (Shanghai University of Finance and Economics)
-
-*   Serene Huang (Peking U)
-
-*   Emma Wang (Cornell University)
-
-*   Mingyue Zhang (University of Waterloo)
-
-*   Shubo Zhang (Shanghai Jiao Tong University)
+## **<center>Supporting organizations:</center>**
+## **<center>Contact us:</center>**
