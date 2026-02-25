@@ -15,7 +15,7 @@ description:
 <style>
 .logo-row {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   gap: 2rem;
   padding: 0 2rem;
@@ -25,8 +25,6 @@ description:
   max-width: 200px;
   height: auto;
 }
-</style>
-
 
 ## **<center>Coordinators</center>**
 *   Zlatko Bodrožić, University of Liverpool, UK (Lead Coordinator)
