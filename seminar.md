@@ -8,20 +8,20 @@ description:
 
 Welcome to the EGOS SWG Societal Governance Seminar Series.
 
----
+***
 
 ## Registration
 
 
 
----
+***
 
 ## Schedule
 
 - Date 1 – Speaker – Topic
 - Date 2 – Speaker – Topic
 
----
+***
 
 ## Videos Repository
 

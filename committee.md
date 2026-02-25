@@ -70,12 +70,12 @@ City University of Hong Kong<br>
 </ul>
 </div>
 
----
+***
 
 ## Supporting Organizations
 (To be updated)
 
----
+***
 
 ## Contact Us
 For general inquiries, please contact the lead coordinator.
