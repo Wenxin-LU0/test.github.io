@@ -15,6 +15,7 @@ description:
 <style>
 .logo-row {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
   gap: 1rem;
@@ -22,8 +23,9 @@ description:
 }
 
 .logo-row img {
-  max-width: 300px;
-  width: 220px;
+  max-width: 100%;
+  width: 200px;   /* 控制每个logo基础宽度 */
+  height: auto;
 }
 </style>
 
