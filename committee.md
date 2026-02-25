@@ -25,6 +25,7 @@ description:
   max-width: 200px;
   height: auto;
 }
+</style>
 
 ## **<center>Coordinators</center>**
 *   Zlatko Bodrožić, University of Liverpool, UK (Lead Coordinator)
